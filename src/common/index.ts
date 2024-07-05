@@ -5,5 +5,4 @@ export function isPromise(p: any): p is Promise<any> {
 export { pluck } from './pluck';
 export { setFields } from './set-fields';
 export { transformItems } from './transform-items';
-export { traverse } from './traverse';
 export { clone } from './clone';
